@@ -1,0 +1,10 @@
+
+
+Am very thankful to Navtech, because This task teach me some new things like using Code first  approach and using good in AspCore ,
+Which given task seems like small ecommerce so am try to develop small ecommerce project this project using technologies are
+* Dot net core 2.0 , C#, Bootstrap 4.6 , JQuery 3 , Entityframe work 6, using Code first approach to connect database 
+And am hard to try complete task but getting error due to AppCore version problem what i did complete task am send in git repository link 
+please use below commands 
+1.Add-migration initial
+2.Update-Databse
+and database connection  change in webcongif
